@@ -28,7 +28,6 @@ Link: https://shimaski.github.io/Frontweek/spider/
 * HTML
 * CSS 
 * SASS
-* HTML 
 * JavaScript
 * JQuery
 * [TiltJs](https://gijsroge.github.io/tilt.js/) - Biblioteca para dar o efeito parallax.  
