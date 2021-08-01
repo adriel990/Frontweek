@@ -18,7 +18,7 @@
 
 <h2 Sobre o Projeto</h2>
 
-<p> Projeto do Site Web do jogo Spiderman - Miles Morales para PS5, site desenvolvido utilizando html, scss e javascript, totalmente responsivo, com um visual de encher os olhos e movimentos fluídos.</p>
+<p> Projeto do Site Web do jogo Spiderman - Miles Morales para PS5, site desenvolvido utilizando html, scss e javascript. </p>
 
 ---
 
