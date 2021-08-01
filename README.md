@@ -1,12 +1,12 @@
 
 <!-- ************************************* Baadges ********************************************* -->
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/FrontWeek-Spider-man-Project?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/shimaski/Frontweek?color=%2304D361">
 
- <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunoemferreira/FrontWeek-Spider-man-Project">
+ <img alt="Repository size" src="https://img.shields.io/github/repo-size/shimaski/Frontweek">
 
   <a href="https://github.com/tgmarinho/nlw1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/FrontWeek-Spider-man-Project">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shimaski/Frontweek">
   </a>
 </p>
 
@@ -14,11 +14,12 @@
 
 <h1>FrontWeek - Spiderman Project</h1>
 
+Link: https://shimaski.github.io/Frontweek/spider/
 <!-- ************************************* Sobre o projeto ********************************************* -->
 
 <h2 Sobre o Projeto</h2>
 
-<p> Projeto do Site Web do jogo Spiderman - Miles Morales para PS5, site desenvolvido utilizando html, scss e javascript. </p>
+<p> Projeto do Site Web do jogo Spiderman - Miles Morales, site desenvolvido utilizando html, scss e javascript. </p>
 
 ---
 
@@ -41,3 +42,4 @@
 * [Figma](https://www.figma.com/) - Ferramenta para design de Interfaces.S 
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE de Desenvolvimento. 
 * [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) -  Extensão do vscode para compilar o arquivo Sass e gerar style em css
+
